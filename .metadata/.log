@@ -1169,3 +1169,15 @@ org.eclipse.core.runtime.CoreException: No property tester contributes a propert
 
 !ENTRY org.eclipse.wst.server.core 4 0 2015-11-18 15:46:03.225
 !MESSAGE The server cannot start because it is already started.
+
+!ENTRY org.eclipse.egit.core 4 0 2015-11-18 15:47:39.831
+!MESSAGE An exception occurred during push on URI https://github.com/LongBunna/LMSAPP.git: Nothing to push.
+!STACK 0
+org.eclipse.jgit.errors.TransportException: Nothing to push.
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1170)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:197)
+	at org.eclipse.egit.ui.internal.push.PushWizard$PushJob.run(PushWizard.java:298)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.egit.ui 4 0 2015-11-18 15:47:39.831
+!MESSAGE Can't connect to any repository: https://github.com/LongBunna/LMSAPP.git (Nothing to push.)
