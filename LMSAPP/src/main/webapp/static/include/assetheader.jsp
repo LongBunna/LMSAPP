@@ -1,4 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<%@ page isELIgnored="false" %>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -12,20 +14,20 @@
     <title>LMS </title>
 
     <!-- Bootstrap core CSS -->
+	
+    <link href="<c:url value='/css/bootstrap.min.css' />" rel="stylesheet"></link>
 
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-
-    <link href="fonts/css/font-awesome.min.css" rel="stylesheet">
-    <link href="css/animate.min.css" rel="stylesheet">
+    <link href="<c:url value='/fonts/css/font-awesome.min.css' />" rel="stylesheet">
+    <link href="<c:url value='/css/animate.min.css' />" rel="stylesheet">
 
     <!-- Custom styling plus plugins -->
-    <link href="css/custom.css" rel="stylesheet">
-    <link href="css/icheck/flat/green.css" rel="stylesheet">
+    <link href="<c:url value='/static/css/custom.css' />" rel="stylesheet">
+    <link href="<c:url value='/css/icheck/flat/green.css' />" rel="stylesheet">
     
     <!-- Full Calendar CSS included by Chitra -->
-    <link href="css/calendar/fullcalendar.min.css" rel="stylesheet">
-    <link href="css/calendar/fullcalendar.print.css" rel="stylesheet" media="print">  
-    <link href="css/lms_adm_031.css" rel="stylesheet">  
+    <link href="<c:url value='/css/calendar/fullcalendar.min.css' />" rel="stylesheet">
+    <link href="<c:url value='/css/calendar/fullcalendar.print.css' />" rel="stylesheet" media="print">  
+    <link href="<c:url value='/css/lms_adm_031.css' />"rel="stylesheet">  
     <!-- That's all -->
     
     <!-- Borint -->
@@ -33,7 +35,7 @@
 	<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/bootstrap.daterangepicker/2/daterangepicker.css" />
 
 
-    <script src="js/jquery.min.js"></script>
+    <!-- <script src="<c:url value='/js/jquery.min.js'"> </script> -->
 
     <!--[if lt IE 9]>
         <script src="../assets/js/ie8-responsive-file-warning.js"></script>
