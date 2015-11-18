@@ -21,6 +21,12 @@ public class MainController {
         model.addAttribute("user", getPrincipal());
         return "welcome";
     }
+    
+    @RequestMapping(value="main", method = RequestMethod.GET)
+    public String mainPage(ModelMap model) {
+    	model.addAttribute("greeting", "Hi, Welcome to mysite. ");
+    	return "lms_adm_001";
+    }
  
     @RequestMapping(value = "/admin", method = RequestMethod.GET)
     public String adminPage(ModelMap model) {
