@@ -93,3 +93,33 @@
 
 !ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-18 15:34:47.844
 !MESSAGE Module LMSAPP on wildfly-8.2.0.Final still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-18 15:51:35.936
+!MESSAGE The server "wildfly-8.2.0.Final" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_31 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-18 15:51:37.144
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-18 15:51:58.438
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-18 15:51:58.524
+!MESSAGE Module LMSAPP on wildfly-8.2.0.Final not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-18 15:52:18.540
+!MESSAGE Module LMSAPP on wildfly-8.2.0.Final still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-18 15:52:40.375
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-18 16:29:12.905
+!MESSAGE The server "wildfly-8.2.0.Final" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_31 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-18 16:39:19.106
+!MESSAGE The server "wildfly-8.2.0.Final" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_31 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-18 17:15:42.291
+!MESSAGE The server "wildfly-8.2.0.Final" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_31 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-18 17:20:39.651
+!MESSAGE The server "wildfly-8.2.0.Final" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_31 
