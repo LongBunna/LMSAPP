@@ -17,6 +17,7 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
         auth.inMemoryAuthentication().withUser("admin").password("root123").roles("ADMIN");
         auth.inMemoryAuthentication().withUser("dba").password("root123").roles("ADMIN","DBA");//dba have two roles.
     }
+    
      
     @Override
     protected void configure(HttpSecurity http) throws Exception {
