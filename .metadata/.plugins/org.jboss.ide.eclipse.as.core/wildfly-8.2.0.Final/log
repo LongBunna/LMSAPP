@@ -54,3 +54,42 @@
 
 !ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-18 15:14:51.444
 !MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-18 15:20:32.462
+!MESSAGE The server "wildfly-8.2.0.Final" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_31 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-18 15:20:33.515
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-18 15:20:40.131
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-18 15:20:40.175
+!MESSAGE Module LMSAPP on wildfly-8.2.0.Final not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-18 15:21:39.641
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-18 15:33:14.229
+!MESSAGE The server "wildfly-8.2.0.Final" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_31 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-18 15:33:36.920
+!MESSAGE The server "wildfly-8.2.0.Final" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_31 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-18 15:33:47.020
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-18 15:33:47.125
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-18 15:34:09.879
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-18 15:34:24.769
+!MESSAGE The server "wildfly-8.2.0.Final" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_31 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-18 15:34:26.701
+!MESSAGE Module LMSAPP on wildfly-8.2.0.Final not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-18 15:34:47.844
+!MESSAGE Module LMSAPP on wildfly-8.2.0.Final still not ready to be shown in browser. Aborting delay.
