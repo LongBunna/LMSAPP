@@ -1,0 +1,8 @@
+package com.kosig.lmsapp.configuration;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class MainConfig {
+
+}

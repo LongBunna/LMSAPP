@@ -1,0 +1,56 @@
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-18 14:36:30.480
+!MESSAGE The server "wildfly-8.2.0.Final" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_31 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-18 14:36:31.777
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-18 14:36:59.687
+!MESSAGE Module LMSAPP on wildfly-8.2.0.Final not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-18 14:36:59.813
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-18 14:52:31.511
+!MESSAGE Incremental publish failed for module LMSAPP
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-18 14:52:31.511
+!MESSAGE Could not delete C:/Users/sabaychitra84/wildfly-8.2.0.Final/standalone/deployments/LMSAPP.war/WEB-INF/classes/com/kosig/lmsapp. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-18 14:52:31.511
+!MESSAGE Could not delete C:/Users/sabaychitra84/wildfly-8.2.0.Final/standalone/deployments/LMSAPP.war/WEB-INF/classes/com/kosig. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-18 14:52:31.760
+!MESSAGE Module LMSAPP on wildfly-8.2.0.Final not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-18 15:01:37.057
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-18 15:01:44.299
+!MESSAGE The server "wildfly-8.2.0.Final" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_31 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-18 15:01:45.362
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-18 15:01:53.972
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-18 15:01:54.013
+!MESSAGE Module LMSAPP on wildfly-8.2.0.Final not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-18 15:13:59.422
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-18 15:14:10.070
+!MESSAGE The server "wildfly-8.2.0.Final" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_31 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-18 15:14:11.101
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-18 15:14:17.415
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-18 15:14:17.559
+!MESSAGE Module LMSAPP on wildfly-8.2.0.Final not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-18 15:14:51.444
+!MESSAGE Server processes have been terminated.
