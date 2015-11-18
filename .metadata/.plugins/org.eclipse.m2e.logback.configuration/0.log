@@ -1,0 +1,12 @@
+2015-11-18 14:05:47,275 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\KOSIGN\LMSAPP\pom.xml
+2015-11-18 14:05:48,119 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.kosign.lmsapp:LMSAPP:0.0.1-SNAPSHOT @ C:\KOSIGN\LMSAPP\pom.xml.
+2015-11-18 14:05:49,374 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LMSAPP/src/main/java
+2015-11-18 14:05:49,375 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LMSAPP/src/main/resources
+2015-11-18 14:05:49,377 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LMSAPP/src/test/java
+2015-11-18 14:05:50,169 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.kosign.lmsapp:LMSAPP:0.0.1-SNAPSHOT @ C:\KOSIGN\LMSAPP\pom.xml.
+2015-11-18 14:05:58,437 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2015-11-18 14:06:00,583 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.kosign.lmsapp:LMSAPP:0.0.1-SNAPSHOT @ C:\KOSIGN\LMSAPP\pom.xml.
+2015-11-18 14:06:00,827 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-18 14:06:00,846 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-18 14:06:00,851 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-18 14:06:00,858 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\KOSIGN\LMSAPP\src\test\resources
