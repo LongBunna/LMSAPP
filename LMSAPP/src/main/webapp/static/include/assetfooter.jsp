@@ -1,4 +1,4 @@
-<script src="<c:url value="/static/js/bootstrap.min.js" />"></script>
+	<script src="<c:url value="/static/js/bootstrap.min.js" />"></script>
 
     <!-- chart js -->
     <script src="<c:url value="/static/js/chartjs/chart.min.js" />"></script>
