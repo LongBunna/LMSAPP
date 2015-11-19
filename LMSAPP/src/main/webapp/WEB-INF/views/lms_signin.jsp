@@ -136,7 +136,7 @@
             </div> 
         </div>
         
-       <%@include file="/lms_signup.jsp"%>
+       <%@include file="lms_signup.jsp"%>
         
         
         
