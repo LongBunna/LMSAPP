@@ -35,7 +35,7 @@
 	<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/bootstrap.daterangepicker/2/daterangepicker.css" />
 
 
-     <script src="<c:url value="/js/jquery.min.js" />"> </script> 
+     <script src="<c:url value="/static/js/jquery.min.js" />"> </script> 
 
     <!--[if lt IE 9]>
         <script src="../assets/js/ie8-responsive-file-warning.js"></script>
