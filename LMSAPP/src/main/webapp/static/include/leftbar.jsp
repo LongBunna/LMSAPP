@@ -11,7 +11,7 @@
                     <div class="profile">
                     	<a hreft="lms_profile.jsp">
 	                        <div class="profile_pic">
-	                            <img src="images/img.jpg" alt="..." class="img-circle profile_img">
+	                            <img src="static/images/img.jpg" alt="..." class="img-circle profile_img">
 	                        </div>
 	                        <div class="profile_info">
 	                            <span>Welcome,</span>
