@@ -15,19 +15,19 @@
 
     <!-- Bootstrap core CSS -->
 	
-    <link href="<c:url value='/css/bootstrap.min.css' />" rel="stylesheet"></link>
+    <link href="<c:url value='/static/css/bootstrap.min.css' />" rel="stylesheet"></link>
 
     <link href="<c:url value='/fonts/css/font-awesome.min.css' />" rel="stylesheet">
-    <link href="<c:url value='/css/animate.min.css' />" rel="stylesheet">
+    <link href="<c:url value='/static/css/animate.min.css' />" rel="stylesheet">
 
     <!-- Custom styling plus plugins -->
     <link href="<c:url value='/static/css/custom.css' />" rel="stylesheet">
-    <link href="<c:url value='/css/icheck/flat/green.css' />" rel="stylesheet">
+    <link href="<c:url value='/static/css/icheck/flat/green.css' />" rel="stylesheet">
     
     <!-- Full Calendar CSS included by Chitra -->
-    <link href="<c:url value='/css/calendar/fullcalendar.min.css' />" rel="stylesheet">
-    <link href="<c:url value='/css/calendar/fullcalendar.print.css' />" rel="stylesheet" media="print">  
-    <link href="<c:url value='/css/lms_adm_031.css' />"rel="stylesheet">  
+    <link href="<c:url value='/static/css/calendar/fullcalendar.min.css' />" rel="stylesheet">
+    <link href="<c:url value='/static/css/calendar/fullcalendar.print.css' />" rel="stylesheet" media="print">  
+    <link href="<c:url value='/static/css/lms_adm_031.css' />"rel="stylesheet">  
     <!-- That's all -->
     
     <!-- Borint -->
