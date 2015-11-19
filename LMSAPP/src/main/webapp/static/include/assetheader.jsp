@@ -17,7 +17,7 @@
 	
     <link href="<c:url value='/static/css/bootstrap.min.css' />" rel="stylesheet"></link>
 
-    <link href="<c:url value='/fonts/css/font-awesome.min.css' />" rel="stylesheet">
+    <link href="<c:url value='/static/fonts/css/font-awesome.min.css' />" rel="stylesheet">
     <link href="<c:url value='/static/css/animate.min.css' />" rel="stylesheet">
 
     <!-- Custom styling plus plugins -->
