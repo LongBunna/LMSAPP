@@ -1,4 +1,4 @@
-<%@include file="/include/assetheader.jsp" %>
+<%@include file="/static/include/assetheader.jsp" %>
 
 <body class="nav-md">
 
@@ -9,12 +9,12 @@
 			
 			<!-- Left menu bar -->
 			
-            <%@include file="/include/leftbar.jsp" %>
+            <%@include file="/static/include/leftbar.jsp" %>
 			<!-- /Left menu bar -->
 			
             <!-- top navigation -->
             
-            <%@include file="/include/topNav.jsp" %>
+            <%@include file="/static/include/topNav.jsp" %>
             
             <!-- /top navigation -->
 
@@ -186,5 +186,5 @@
         <div id="notif-group" class="tabbed_notifications"></div>
     </div>
 
-<%@include file="/include/assetfooter.jsp" %>
+<%@include file="/static/include/assetfooter.jsp" %>
    

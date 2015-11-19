@@ -1,4 +1,4 @@
-<%@include file="/include/assetheader.jsp" %>
+<%@include file="/static/include/assetheader.jsp" %>
 	<!-- LOCAL style -->
 	<style type="text/css">
 		body{

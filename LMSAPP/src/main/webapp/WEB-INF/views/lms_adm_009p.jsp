@@ -240,4 +240,4 @@
 	</div>
     </body>
 
-   <%@include file="/include/assetfooter.jsp" %> --%>
+   <%@include file="/static/include/assetfooter.jsp" %> --%>

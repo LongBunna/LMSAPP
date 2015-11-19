@@ -1,4 +1,4 @@
-<%@include file="/include/assetheader.jsp" %>
+<%@include file="/static/include/assetheader.jsp" %>
 
 <body class="nav-md">
 
@@ -6,8 +6,8 @@
 
         <div class="main_container">
 
-            <%@include file="/include/leftbar.jsp" %> 
-            <%@include file="/include/topNav.jsp" %>
+            <%@include file="/static/include/leftbar.jsp" %> 
+            <%@include file="/static/include/topNav.jsp" %>
 
             <!-- page content -->
             <div class="right_col" role="main">                
@@ -790,7 +790,7 @@
         </div>
         
     </div>  
-    <%@include file="/include/assetfooter.jsp" %>t>
+    <%@include file="/static/include/assetfooter.jsp" %>t>
 </div>
 </body>
 

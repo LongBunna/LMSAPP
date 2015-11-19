@@ -1,4 +1,4 @@
-<%@include file="/include/assetheader.jsp" %>
+<%@include file="/static/include/assetheader.jsp" %>
 
 <body class="nav-md" style="background-color:white; " >
 	<div class="x_panel" style="width: 450px;" >
@@ -47,4 +47,4 @@
 	</div>
     </body>
 
-   <%@include file="/include/assetfooter.jsp" %>
+   <%@include file="/static/include/assetfooter.jsp" %>
