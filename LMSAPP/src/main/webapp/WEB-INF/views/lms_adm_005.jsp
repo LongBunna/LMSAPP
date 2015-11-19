@@ -1,5 +1,5 @@
 <%@include file="/include/assetheader.jsp"%>
-<%@include file="/lms_adm_005p.jsp"%>
+<%@include file="lms_adm_005p.jsp"%>
 
 <body class="nav-md">
 
@@ -188,7 +188,7 @@
         </div>
       </div>
       <!-- /page content -->
-      <%@include file="/lms_adm_002p.jsp"%><!--  -->
+      <%@include file="lms_adm_002p.jsp"%><!--  -->
     </div>
 
   </div>

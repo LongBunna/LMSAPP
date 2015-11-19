@@ -333,6 +333,6 @@
 
    <%@include file="/static/include/assetfooter.jsp" %>
    
-    <script src="js/lms_adm_036.js"></script>
+    <script src="jslms_adm_036.js"></script>
     </body>
     </html>

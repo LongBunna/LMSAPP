@@ -1,6 +1,6 @@
 <%@include file="/static/include/assetheader.jsp" %>
-<%@include file="/lms_adm_019p.jsp" %>
-<%@include file="/lms_adm_020p.jsp" %>
+<%@include file="lms_adm_019p.jsp" %>
+<%@include file="lms_adm_020p.jsp" %>
 <body class="nav-md">
 
     <div class="container body">

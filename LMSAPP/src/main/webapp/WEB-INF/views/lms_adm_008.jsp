@@ -188,9 +188,9 @@
         </div>
     </div>
     
-	<%@include file="/lms_adm_010p.jsp"%> <!-- select position -->
-	<%@include file="/lms_adm_009p.jsp"%> <!-- select dept -->
-	<%@include file="/lms_adm_008p.jsp"%> <!-- select manager -->
+	<%@include file="lms_adm_010p.jsp"%> <!-- select position -->
+	<%@include file="lms_adm_009p.jsp"%> <!-- select dept -->
+	<%@include file="lms_adm_008p.jsp"%> <!-- select manager -->
 
 	
 	

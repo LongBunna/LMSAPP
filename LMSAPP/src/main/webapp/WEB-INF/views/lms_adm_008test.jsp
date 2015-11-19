@@ -209,7 +209,7 @@
         </div>
     </div>
     
-	<%@include file="/lms_adm_007.jsp"%>
+	<%@include file="lms_adm_007.jsp"%>
 		
 	
 	

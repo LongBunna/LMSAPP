@@ -198,7 +198,7 @@
         </div>
     </div>
 
-	<%@include file="/lms_adm_009p.jsp"%>
+	<%@include file="lms_adm_009p.jsp"%>
 	
     <div id="custom_notifications" class="custom-notifications dsp_none">
         <ul class="list-unstyled notifications clearfix" data-tabbed_notifications="notif-group">

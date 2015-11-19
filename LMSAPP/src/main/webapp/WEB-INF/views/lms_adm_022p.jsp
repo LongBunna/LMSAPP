@@ -16,7 +16,7 @@
 	<link href="css/calendar/fullcalendar.css" rel="stylesheet">
 	<link href="css/calendar/fullcalendar.print.css" rel="stylesheet"
 		media="print">
-	<link href="css/lms_adm_031.css" rel="stylesheet">
+	<link href="csslms_adm_031.css" rel="stylesheet">
 	<!-- That's all -->
 	</head>
 	<body class="nav-md">

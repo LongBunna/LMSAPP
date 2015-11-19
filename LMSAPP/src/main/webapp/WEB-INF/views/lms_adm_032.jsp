@@ -105,6 +105,6 @@
     </div>
 
    <%@include file="/static/include/assetfooter.jsp" %>   
-    <script src="js/lms_adm_032.js"></script>
+    <script src="jslms_adm_032.js"></script>
     </body>
     </html>
