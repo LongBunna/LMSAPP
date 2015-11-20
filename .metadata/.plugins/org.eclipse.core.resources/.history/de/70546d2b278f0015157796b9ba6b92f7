@@ -1,0 +1,16 @@
+package com.kosign.lmsapp.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+@RequestMapping("/admin")
+public class Lms_adm_031 {
+	
+	@RequestMapping(value="lms_adm_031")
+	public String showLms_adm_031(){
+		return "lms_adm_031";
+	}
+	
+
+}

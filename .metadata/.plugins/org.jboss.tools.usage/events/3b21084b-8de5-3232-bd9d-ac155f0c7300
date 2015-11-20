@@ -1,8 +1,8 @@
-#Wed Nov 18 14:04:16 ICT 2015
+#Fri Nov 20 08:21:44 ICT 2015
 l=Server Runtime ID
 ct=server
-d=1447830256770
-c=1
+d=1447982504904
+c=0
 cmp=server
 a=detect
 cl=org.jboss.ide.eclipse.as.wildfly.80
