@@ -12,6 +12,4 @@ public class Lms_adm_031 {
 	public String showLms_adm_031(){
 		return "lms_adm_031";
 	}
-	
-
 }

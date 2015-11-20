@@ -10,7 +10,10 @@
 
 	<properties>
 		<springframework.version>4.1.6.RELEASE</springframework.version>
-		<springsecurity.version>4.0.1.RELEASE</springsecurity.version>
+		<springsecurity.version>4.0.1.RELEASE</springsecurity.version>		
+        <hibernate.version>4.3.6.Final</hibernate.version>
+        <mysql.connector.version>5.1.31</mysql.connector.version>
+		
 	</properties>
 
 	<dependencies>
@@ -48,6 +51,21 @@
 			<artifactId>spring-security-taglibs</artifactId>
 			<version>4.0.1.RELEASE</version>
 		</dependency>
+
+		<!-- Hibernate -->
+		<dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-core</artifactId>
+			<version>${hibernate.version}</version>
+		</dependency>
+
+		<!-- MySQL -->
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>${mysql.connector.version}</version>
+		</dependency>
+
 
 		<dependency>
 			<groupId>javax.servlet</groupId>
