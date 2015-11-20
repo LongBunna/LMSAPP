@@ -3,3 +3,4 @@
 1447833108941	Rename package 'com.kosig.lmsapp.configuration'
 1447833122942	Rename package 'com.kosig.lmsapp.controller'
 1447833388166	Move 'views' to 'WEB-INF'
+1447997184177	Rename resource 'application.proerties'

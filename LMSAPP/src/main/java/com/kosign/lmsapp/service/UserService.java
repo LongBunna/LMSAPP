@@ -1,5 +1,11 @@
 package com.kosign.lmsapp.service;
 
-public class UserService {
+import com.kosign.lmsapp.entity.User;
 
+public interface UserService {
+	 
+    User findById(int id);
+     
+    User findBySso(String sso);
+     
 }
