@@ -15,8 +15,6 @@ import org.springframework.transaction.annotation.Transactional;
 import com.kosign.lmsapp.entity.User;
 import com.kosign.lmsapp.entity.UserProfile;
  
-
- 
 @Service("customUserDetailsService")
 public class CustomUserDetailsService implements UserDetailsService{
  
@@ -26,6 +24,7 @@ public class CustomUserDetailsService implements UserDetailsService{
     @Transactional(readOnly=true)
     public UserDetails loadUserByUsername(String ssoId)
             throws UsernameNotFoundException {
+    	System.out.println(ssoId+"How are you ?");
         User user = userService.findBySso(ssoId);
         System.out.println("User : "+user);
         if(user==null){
@@ -49,4 +48,3 @@ public class CustomUserDetailsService implements UserDetailsService{
     }
      
 }
-
