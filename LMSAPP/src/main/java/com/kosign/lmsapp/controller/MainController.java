@@ -3,6 +3,7 @@ package com.kosign.lmsapp.controller;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
  
+
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.core.userdetails.UserDetails;
@@ -14,6 +15,11 @@ import org.springframework.web.bind.annotation.RequestMethod;
  
 @Controller
 public class MainController {
+	@RequestMapping(value="/admin/lms_adm_031", method=RequestMethod.GET)
+	public String showLms_adm_031(ModelMap m){
+		m.addAttribute("user", getPrincipal());		
+		return "lms_adm_031";
+	}
  
      
     @RequestMapping(value="home", method = RequestMethod.GET)

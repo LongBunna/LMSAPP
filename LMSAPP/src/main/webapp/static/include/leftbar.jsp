@@ -11,11 +11,11 @@
                     <div class="profile">
                     	<a hreft="lms_profile.jsp">
 	                        <div class="profile_pic">
-	                            <img src="static/images/img.jpg" alt="..." class="img-circle profile_img">
+	                            <img src="<c:url value="/static/images/img.jpg" />"alt="${user}" class="img-circle profile_img">
 	                        </div>
 	                        <div class="profile_info">
 	                            <span>Welcome,</span>
-	                            <h2>General User</h2>
+	                            <h2>${user}</h2>
 	                        </div>
 	                     </a>
                     </div>
