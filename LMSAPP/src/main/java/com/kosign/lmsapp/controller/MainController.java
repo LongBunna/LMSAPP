@@ -20,7 +20,8 @@ public class MainController {
 		m.addAttribute("user", getPrincipal());		
 		return "lms_adm_031";
 	}
- 
+	
+	
      
     @RequestMapping(value="home", method = RequestMethod.GET)
     public String homePage(ModelMap model) {
